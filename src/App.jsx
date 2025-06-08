@@ -7,21 +7,21 @@ const products = [
     name: "Birthday Bliss Box",
     description: "Celebrate someone special with curated treats and joyful keepsakes.",
     price: "$45.00",
-    image: "/Stock-Box-1.png"
+    image: "https://tyswarts.github.io/Embrace-Bloom/stock-box-1.png"
   },
   {
     id: 2,
     name: "Thinking of You Box",
     description: "Send love, comfort, and thoughtfulness in a beautiful package.",
     price: "$38.00",
-    image: "/Stock-Box-1.png"
+    image: "https://tyswarts.github.io/Embrace-Bloom/stock-box-1.png"
   },
   {
     id: 3,
     name: "New Baby Box",
     description: "Welcome a new life with gifts for baby and thoughtful items for parents.",
     price: "$60.00",
-    image: "/Stock-Box-1.png"
+    image: "https://tyswarts.github.io/Embrace-Bloom/stock-box-1.png"
   }
 ];
 
