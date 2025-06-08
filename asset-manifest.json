@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Embrace-Bloom/static/css/main.e6c13ad2.css",
-    "main.js": "/Embrace-Bloom/static/js/main.82909342.js",
+    "main.js": "/Embrace-Bloom/static/js/main.37f9f356.js",
     "index.html": "/Embrace-Bloom/index.html",
     "main.e6c13ad2.css.map": "/Embrace-Bloom/static/css/main.e6c13ad2.css.map",
-    "main.82909342.js.map": "/Embrace-Bloom/static/js/main.82909342.js.map"
+    "main.37f9f356.js.map": "/Embrace-Bloom/static/js/main.37f9f356.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.82909342.js"
+    "static/js/main.37f9f356.js"
   ]
 }
